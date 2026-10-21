@@ -1,5 +1,8 @@
 Welcome to your new dbt project!
 
+project_1
+
+
 ### Using the starter project
 
 Try running the following commands:
